@@ -12,17 +12,17 @@ global.APIKeys = {
 }
 
 // Other
-global.namabot = ['ArullBotzMD']
-global.namaowner = ['ArullOfc']
-global.owner = ['6285822347348']
-global.premium = ['6285822347348']
+global.namabot = ['𝙳𝚒𝚝𝚣_𝙼𝙳']
+global.namaowner = ['𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒾']
+global.owner = ['6282244877433']
+global.premium = ['6282244877433']
 global.packname = 'Sticker By'
-global.author = 'ArullOfc'
-global.sessionName = 'zxyn'
+global.author = '𝒜𝒹𝒾𝓉𝓎𝒶 ℛℯ𝒻𝒶𝓃𝒹𝒿'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: '✓ Success',
+    success: '✓',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     owner: 'Fitur Khusus Owner Bot',
